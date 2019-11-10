@@ -1,0 +1,56 @@
+{
+  "name": "react-todo-list-hooks-ts",
+  "version": "1.0.0",
+  "description": "Simple Todo list app built with React hooks and TypeScript.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/react-hooks-todo-list-app-ts.git"
+  },
+  "homepage": "https://github.com/alexdevero/react-hooks-todo-list-app-ts#readme",
+  "bugs": {
+    "url": "https://github.com/alexdevero/react-hooks-todo-list-app-ts/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://alexdevero.com/"
+  },
+  "keywords": [
+    "app",
+    "react",
+    "reactjs",
+    "todo",
+    "typescript"
+  ],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "engines": {
+    "node": ">=11.0.0",
+    "npm": ">=6.0",
+    "yarn": ">=1.16.0"
+  },
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "shortid": "2.2.15"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.4",
+    "@types/shortid": "^0.0.29",
+    "react-scripts": "3.2.0",
+    "typescript": "3.7.2"
+  }
+}
