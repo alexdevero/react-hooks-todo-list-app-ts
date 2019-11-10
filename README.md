@@ -5,7 +5,7 @@
 ![Prerequisite](https://img.shields.io/badge/yarn-%3E%3D1.16.0-blue.svg)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/alexdevero/react-hooks-todo-list-app-ts#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/alexdevero/react-hooks-todo-list-app-ts/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/alexdevero/React Todo list app TS)](https://github.com/alexdevero/react-hooks-todo-list-app-ts/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/alexdevero/react-hooks-todo-list-app-ts)](https://github.com/alexdevero/react-hooks-todo-list-app-ts/blob/master/LICENSE)
 [![Twitter: alexdevero](https://img.shields.io/twitter/follow/alexdevero.svg?style=social)](https://twitter.com/alexdevero)
 
 > Simple Todo list app built with React hooks and TypeScript.
